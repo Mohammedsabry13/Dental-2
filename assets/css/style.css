@@ -1,7 +1,7 @@
 /*
 MIT License
 
-Copyright (c) 2014 IIVTrade
+Copyright (c) 2014 Mohammed Sabry
 
 This template was originally created by Mohammed Sabry.
 Credit is required: github.com/Mohammedsabry13
