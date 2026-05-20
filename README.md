@@ -1,5 +1,9 @@
 # IIVTrade — Dental Supplies Trading & Distribution
 
+⚠️ This template was originally created by Mohammed Sabry
+credit is required: github.com/Mohammedsabry13
+
+
 A professional one-page corporate website for **IIVTrade**, a dental supplies trading and distribution company established in 2014, supplying clinics and markets with high-quality dental instruments and tools.
 
 ## 🛠️ Tech Stack
